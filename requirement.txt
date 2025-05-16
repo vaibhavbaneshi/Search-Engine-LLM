@@ -1,5 +1,5 @@
 langchain
-python_dotenv
+python-dotenv
 ipykernel
 langchain_community
 pypdf
@@ -7,7 +7,7 @@ bs4
 arxiv
 pymupdf
 wikipedia
-langchain_text_splitters
+langchain-text-splitters
 chromadb
 sentence_transformers
 langchain_huggingface
@@ -16,7 +16,7 @@ langchain_chroma
 duckdb
 pandas
 openai
-langchain_groq
+langchain-groq
 duckduckgo_search
 pymupdf
 arxiv
